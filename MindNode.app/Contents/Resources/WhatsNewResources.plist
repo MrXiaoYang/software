@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>version</key>
+	<string>2.3</string>
+	<key>pages</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Integrate Your Task Workflow</string>
+			<key>image</key>
+			<string>mac-2.3-task-im-export</string>
+			<key>description</key>
+			<string>Send your tasks to Things &amp; OmniFocus. Import documents from Markdown, MindManager, OPML and TaskPaper and export to OPML &amp; TaskPaper.</string>
+		</dict>
+	</array>
+</dict>
+</plist>

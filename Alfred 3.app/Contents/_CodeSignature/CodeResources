@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/Alfred.sdef</key>
+		<data>
+		I8ULsNwpU2dJ5m6cr4V0tp/DlVo=
+		</data>
+		<key>Resources/appicon.icns</key>
+		<data>
+		VMSHj1DMNec7HasveyDR8+UDUfc=
+		</data>
+		<key>Resources/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MiLKDDnrUKr4EmuvhS5VQwxHGK8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3Zjm3MZk3sEohAJGvcxgV9IkQK0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/snippetsicon.icns</key>
+		<data>
+		rB4AW28GHSKgKWfDYgIOgHknq70=
+		</data>
+		<key>Resources/statusicon.tiff</key>
+		<data>
+		7ynSKx9esgIZOfD44Sp5LiUSDQM=
+		</data>
+		<key>Resources/themeicon.icns</key>
+		<data>
+		5CyAbp65ff80XwXi6Au0RInM/2k=
+		</data>
+		<key>Resources/workflowicon.icns</key>
+		<data>
+		vD5sh8wi/TJZ7X2PGc7AbmJzqUA=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Frameworks/Alfred Framework.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			qUr3qqjRQcsjtPNOUT6o9OT3wyk=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.runningwithcrayons.Alfred-Framework" and certificate root = H"69ca1b0be206c518ad569cd1850b6fea2ddd86c5"</string>
+		</dict>
+		<key>Preferences/Alfred Preferences.app/Contents/Info.plist</key>
+		<data>
+		8tCETNBmQnjIDsX6ajaeq/BPkyE=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/MacOS/Alfred Preferences</key>
+		<data>
+		MTClV2RYf8bDcOb8+tfAXElRgvA=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/AlfredPreferencesAdvanced.nib</key>
+		<data>
+		y1P7xO+xX1brII+t81B90HQc9q4=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/AlfredPreferencesAppearance.nib</key>
+		<data>
+		fUB6XaJJLB0GxoK7ayQwyQR/eM8=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/AlfredPreferencesFeatures.nib</key>
+		<data>
+		2rU2kSgajEdANS3EnWyCe9IkVEA=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/AlfredPreferencesGeneral.nib</key>
+		<data>
+		hm7sHI/pmoajxYZa88cbFgy8HMI=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/AlfredPreferencesHelp.nib</key>
+		<data>
+		OIpeKgyQiF6FtFX5frQihye9bio=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/AlfredPreferencesPowerpack.nib</key>
+		<data>
+		GUrtRcQ77K1GoBKdTX0GhAkgCkg=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/AlfredPreferencesRemote.nib</key>
+		<data>
+		Pi2+lvxDsdTLcb+kaoUEZNLhvFE=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/AlfredPreferencesUpdate.nib</key>
+		<data>
+		Tb8gL6lgQNEds0Vw2q1O+mpWDxE=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/AlfredPreferencesUsage.nib</key>
+		<data>
+		OIq/ffeV3wuEoWtMhSLKpmSEvbs=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/AlfredPreferencesWorkflows.nib</key>
+		<data>
+		/NoS0VL+NC8EVtgjWlKInkRpOhw=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/appicon.icns</key>
+		<data>
+		bQPO1cZVI2/QVUBqQMuys17P3xo=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/appstore.tiff</key>
+		<data>
+		tH36tuzGVhWcCrRDlOK1n6NAfio=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/en.lproj/InfoPlist.strings</key>
+		<data>
+		MiLKDDnrUKr4EmuvhS5VQwxHGK8=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/en.lproj/MainMenu.nib</key>
+		<data>
+		IQBFfaMqSTCKBsF0ozep/qgiJOc=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/general_cachefly.png</key>
+		<data>
+		LVenWrqO1tdTuavre5cdsEl4Rcw=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/general_hat.png</key>
+		<data>
+		vDcKtgnureNqN7jQ/hN3XDBBeYs=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/general_twitter.png</key>
+		<data>
+		W+jabdguBpyWwS+YsJNzbQwf7KQ=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/workflow_debug.tiff</key>
+		<data>
+		gay9ErEMGh7nl7dm7Y9/Ah/eMTk=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/workflow_export.tiff</key>
+		<data>
+		ZYYdsofmXw/gzh7/eEA77wTCxI0=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/workflow_remote.tiff</key>
+		<data>
+		SJ5UeOTfq+TF4vkmj/ljthamDKs=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/workflow_remote_withpages.tiff</key>
+		<data>
+		VI4aC08noThQYMbjKNclfZh6N5w=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/Resources/workflow_variables.tiff</key>
+		<data>
+		4+cuorjH3qVbiTC9R8ww2hkYlZI=
+		</data>
+		<key>Preferences/Alfred Preferences.app/Contents/_CodeSignature/CodeResources</key>
+		<data>
+		bsz91swicwc6o+YRiB411uxR0rg=
+		</data>
+		<key>Resources/Alfred.sdef</key>
+		<data>
+		I8ULsNwpU2dJ5m6cr4V0tp/DlVo=
+		</data>
+		<key>Resources/appicon.icns</key>
+		<data>
+		VMSHj1DMNec7HasveyDR8+UDUfc=
+		</data>
+		<key>Resources/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MiLKDDnrUKr4EmuvhS5VQwxHGK8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3Zjm3MZk3sEohAJGvcxgV9IkQK0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/snippetsicon.icns</key>
+		<data>
+		rB4AW28GHSKgKWfDYgIOgHknq70=
+		</data>
+		<key>Resources/statusicon.tiff</key>
+		<data>
+		7ynSKx9esgIZOfD44Sp5LiUSDQM=
+		</data>
+		<key>Resources/themeicon.icns</key>
+		<data>
+		5CyAbp65ff80XwXi6Au0RInM/2k=
+		</data>
+		<key>Resources/workflowicon.icns</key>
+		<data>
+		vD5sh8wi/TJZ7X2PGc7AbmJzqUA=
+		</data>
+		<key>Services/Alfred Text Service.app/Contents/Info.plist</key>
+		<data>
+		T8J3N9dT2jobp0DJekM6InFTTNo=
+		</data>
+		<key>Services/Alfred Text Service.app/Contents/MacOS/Alfred Text Service</key>
+		<data>
+		pQWCmFDCCkNPNOVhwfEhFx83cDc=
+		</data>
+		<key>Services/Alfred Text Service.app/Contents/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Services/Alfred Text Service.app/Contents/Resources/Base.lproj/MainMenu.nib</key>
+		<data>
+		K8uFkp+o+mbRPC4i/Pd7xLjo1a4=
+		</data>
+		<key>Services/Alfred Text Service.app/Contents/Resources/textserviceappicon.icns</key>
+		<data>
+		icaYbu0vXK+okNNNrTrmd5kbe5k=
+		</data>
+		<key>Services/Alfred Text Service.app/Contents/_CodeSignature/CodeResources</key>
+		<data>
+		4r5nb6z6yCAuHFSCZaJ/iEhNvcc=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
